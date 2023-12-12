@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: uddantisaketh2001@gmail.com
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=usaketh&show_icons=true&theme=dracula"/>  
-<img align="left" height='200px' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaketh&layout=compact"/>  
+  <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaketh&layout=compact"/>  
 </div>
 
 
