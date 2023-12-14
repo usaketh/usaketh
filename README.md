@@ -1,4 +1,4 @@
-<h2 align="center" >Hey 👋, I'm Saketh!</h2>
+<h1 align="center" >Hey 👋, I'm Saketh!</h1>
 
 
 
@@ -8,7 +8,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-**About Me!**
+***About Me!***
 
 - 👨🏽‍💻 I’m currently a grad student at Central Michigan University
 - 🌱 I’m currently working on React.js and building various projects 
@@ -16,7 +16,7 @@
 - 📫 Email me at [uddantisaketh2001@gmail.com]().
 
 
-**Skills:**
+***Skills:***
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
