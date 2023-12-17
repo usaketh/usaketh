@@ -24,6 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <p>
 <img width = 62%, src="https://github-readme-stats.vercel.app/api?username=usaketh&show_icons=true&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_border=true">
 <img width = 37%, src="https://github-readme-streak-stats.herokuapp.com/?user=usaketh&theme=highcontrast&hide_border=true">
