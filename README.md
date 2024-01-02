@@ -13,7 +13,7 @@
 - 👨🏽‍💻 I’m currently a grad student at Central Michigan University
 - 🌱 I’m currently working on React.js and building various projects 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [uddantisaketh2001@gmail.com]().
+- 📫 Email me at  [uddantisaketh2001@gmail.com]().
 
 
 ***Skills:***
