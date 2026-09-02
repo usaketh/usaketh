@@ -1,9 +1,12 @@
-Hi, I'm Saketh Uddanti 👋
+<h1 align="center">Hi, I'm Saketh Uddanti 👋</h1>
 
-I’m an AI/ML and software engineer focused on building secure, reliable AI integrations and backend systems. 
+<h3 align="center">AI/ML & Software Engineer | Python • FastAPI • AWS</h3>
 
-About Me
-🔭 Currently building GenAI applications, MCP integrations, LLM gateways, and RAG systems
-🧠 Interested in applied AI, model security, backend engineering, and cloud deployment
-🛠️ Experienced with Python, FastAPI, REST APIs, React, JavaScript, and SQL
-☁️ Working with AWS services and production-oriented AI architectures
+I’m an AI/ML and software engineer with 3+ years of experience building scalable applications, backend services, and AI-powered solutions. My current focus is secure GenAI integrations, MCP systems, LLM gateways, RAG applications, and cloud-based AI architectures.
+
+## 🚀 Current Focus
+
+- Building GenAI applications, MCP integrations, and LLM gateways
+- Developing RAG pipelines and production-ready backend services
+- Implementing streaming guardrails, authentication, and rate limiting
+- Working with Python, FastAPI, REST APIs, React, JavaScript, SQL, and AWS
