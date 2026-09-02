@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saketh Uddanti 👋</h1>
+<h1 align="center">Hi, I'm Saketh👋</h1>
 
 <h3 align="center">AI/ML & Software Engineer | Python • FastAPI • AWS</h3>
 
